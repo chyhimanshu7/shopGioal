@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/shopGioal/static/css/main.4d0882fb.css",
+    "main.js": "/shopGioal/static/js/main.a97d89cb.js",
+    "static/js/592.6680b082.chunk.js": "/shopGioal/static/js/592.6680b082.chunk.js",
+    "static/media/logo.svg": "/shopGioal/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/shopGioal/index.html",
+    "main.4d0882fb.css.map": "/shopGioal/static/css/main.4d0882fb.css.map",
+    "main.a97d89cb.js.map": "/shopGioal/static/js/main.a97d89cb.js.map",
+    "592.6680b082.chunk.js.map": "/shopGioal/static/js/592.6680b082.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4d0882fb.css",
+    "static/js/main.a97d89cb.js"
+  ]
+}
